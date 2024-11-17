@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niamhck
-- 👀 I’m interested in bioinformatics and biostatistics
+- Masters in Bioinformatics student at KULeuven
 - 📫 How to reach me email: ncallinank@gmail.com or LinkedIn: https://www.linkedin.com/in/niamh-callinan-keenan-b1b410153/
 
 <!---
